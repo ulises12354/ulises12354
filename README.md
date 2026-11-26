@@ -9,7 +9,7 @@ Me interesa la programación, la automatización, las APIs, las bases de datos y
 ## Sobre mí
 
 - Desarrollador de proyectos en JavaScript y Node.js.
-- Aprendiendo y experimentando con Python, SQL y desarrollo web.
+- Aprendiendo y experimentando con Python, C++, Golang, SQL y desarrollo web.
 - Interesado en APIs REST, automatización y bases de datos.
 - Explorando tecnologías de inteligencia artificial y ciberseguridad.
 
