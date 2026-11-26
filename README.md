@@ -22,7 +22,7 @@ Me interesa la programación, la automatización, las APIs, las bases de datos y
 Incluye funciones de entretenimiento, economía virtual, sistema Gacha, administración de grupos y herramientas de automatización.
 
 - Repositorio: https://github.com/ulises12354/Kaede-WaBot
-- Sitio web: https://ulises12354.github.io/
+- Sitio web: https://ulises12354.github.io/index.html
 - Canal de WhatsApp: https://whatsapp.com/channel/0029VbB1ujH8qIzjgU3Vul1l
 
 
